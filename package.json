@@ -1,0 +1,19 @@
+{
+  "name": "trainee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JefteLopes05/Trainee.git"
+  },
+  "author": "Jefte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JefteLopes05/Trainee/issues"
+  },
+  "homepage": "https://github.com/JefteLopes05/Trainee#readme"
+}
