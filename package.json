@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JefteLopes05/Trainee/issues"
   },
-  "homepage": "https://github.com/JefteLopes05/Trainee#readme"
+  "homepage": "https://github.com/JefteLopes05/Trainee#readme",
+  "keywords": [
+    "trainee"
+  ]
 }
